@@ -1,10 +1,10 @@
 ---
-title: Treehouse
+title: Game Start
 subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
+img: gamestart.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014

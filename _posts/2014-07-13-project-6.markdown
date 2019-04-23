@@ -1,10 +1,10 @@
 ---
-title: Round Icons
+title: Tiles
 subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
+img: Target2.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
