@@ -11,10 +11,9 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Sukriti Sharma
   pic: 1
-  position: Lead Designer
   social:
-    - title: twitter
-      url: #
+    - title: Github
+      url: https://github.com/SukritiSharma/
     - title: facebook
       url: #
     - title: stack-overflow
@@ -22,7 +21,6 @@ people:
 
 - name: Saurabh Thakur
   pic: 2
-  position: Lead Marketer
   social:
     - title: twitter
       url: #
@@ -33,7 +31,6 @@ people:
 
 - name: Dixita Patel
   pic: 3
-  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -44,7 +41,6 @@ people:
 
 - name: Ishita Patel
   pic: 4
-  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -55,7 +51,6 @@ people:
 
 - name: Keerthi Maganti
   pic: 5
-  position: Lead Developer
   social:
     - title: twitter
       url: #
