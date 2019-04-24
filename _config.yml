@@ -22,8 +22,8 @@ people:
 - name: Saurabh Thakur
   pic: 2
   social:
-    - title: twitter
-      url: #
+    - title: Github
+      url: https://github.com/SukritiSharma/
     - title: facebook
       url: #
     - title: linkedin
@@ -32,8 +32,8 @@ people:
 - name: Dixita Patel
   pic: 3
   social:
-    - title: twitter
-      url: #
+    - title: Github
+      url: https://github.com/SukritiSharma/
     - title: facebook
       url: #
     - title: google-plus
@@ -42,8 +42,8 @@ people:
 - name: Ishita Patel
   pic: 4
   social:
-    - title: twitter
-      url: #
+    - title: Github
+      url: https://github.com/SukritiSharma/
     - title: facebook
       url: #
     - title: google-plus
@@ -52,8 +52,8 @@ people:
 - name: Keerthi Maganti
   pic: 5
   social:
-    - title: twitter
-      url: #
+    - title: Github
+      url: https://github.com/SukritiSharma/
     - title: facebook
       url: #
     - title: google-plus
@@ -75,8 +75,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: ..
+
 
 # Build settings
 markdown: kramdown
