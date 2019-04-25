@@ -1,11 +1,11 @@
 ---
-title: 5 pack tile
-subtitle: Forcehit tile
+title: Bonus Round Target 
+subtitle: Give 10sec bonus round 
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: Shield.png
-thumbnail: 5pack.png
+thumbnail: Bonus10.png 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
