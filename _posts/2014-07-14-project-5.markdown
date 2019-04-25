@@ -1,11 +1,11 @@
 ---
-title: Shield
-subtitle: Website Design
+title: 5 pack tile
+subtitle: Forcehit tile
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: Shield.png
-thumbnail: Shield.png
+thumbnail: 5pack.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
