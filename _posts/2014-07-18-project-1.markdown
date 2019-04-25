@@ -1,11 +1,11 @@
 ---
-title: Targets
-subtitle: Website Design
+title: Normal Targets
+subtitle: Single point target
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: Targets.png
-thumbnail: Targets.png
+thumbnail: NormalTarget.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
