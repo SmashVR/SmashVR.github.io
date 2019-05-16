@@ -14,18 +14,20 @@ people:
   email: sukritis@usc.edu
   social:
     - title: github
-      url: #
+      url: https://github.com/SukritiSharma
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/sukriti-sharma-20/
+    - title: envelope
+      url: sukritis@usc.edu
 
 - name: Saurabh Thakur
   pic: 2
   email: scthakur@usc.edu
   social:
     - title: github
-      url: #
+      url: https://github.com/thakursc1
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/thakursc1/
 
 - name: Dixita Patel
   pic: 3
@@ -34,16 +36,16 @@ people:
     - title: github
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/dixitapatel42/
 
 - name: Ishita Patel
   pic: 4
   email: ishitanp@usc.edu 
   social:
     - title: github
-      url: #
+      url: https://github.com/ishu63
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/ishitanpatel/
 
 - name: Keerthi Maganti
   pic: 5
@@ -52,7 +54,7 @@ people:
     - title: github
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/keerthi-maganti/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
